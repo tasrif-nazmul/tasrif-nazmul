@@ -9,8 +9,10 @@ I am a Computer Science and Engineering student with a passion for web developme
 ## Skills
 - C / C++
 - C#
-- HTML
-- CSS
+- ASP.NET
+- MySQL
+- POSTMAN
+- MSSQL
 
 ## Current Work
 - 🔭 I’m currently working on Web Development 
