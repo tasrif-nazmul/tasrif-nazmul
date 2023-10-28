@@ -1,13 +1,26 @@
-### Hi there 👋, I am Nazmul Hasan
-#### I am a CSE student
+# Nazmul Hasan
+### CSE Student | Web Developer
 
+Welcome to my GitHub repository! Feel free to explore my projects and contributions.
 
-Being myself has worked out pretty well for me I think.
+## About Me
+I am a Computer Science and Engineering student with a passion for web development. Being myself has worked out pretty well for me, and I enjoy learning and building new things.
 
-Skills: C / C++ / C# / HTML / CSS
+## Skills
+- C / C++
+- C#
+- HTML
+- CSS
 
+## Current Work
 - 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Web-Technologies
+- 🌱 I’m currently learning Web Technologies
 
+## Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-tasrif--nazmul-blue)](https://github.com/tasrif-nazmul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazmul%20Hasan-blue)](https://www.linkedin.com/in/nazmul-hasan-14695823a/)
+[![Facebook](https://img.shields.io/badge/Facebook-tasrifnaazmul-blue)](https://www.facebook.com/tasrifnaazmul)
+[![Instagram](https://img.shields.io/badge/Instagram-tasrif__nazmul-blue)](https://www.instagram.com/tasrif_nazmul/?hl=en/)
+[![YouTube](https://img.shields.io/badge/YouTube-UCs11QHe1nbJg424qYFn8fCQ-red)](https://www.youtube.com/channel/UCs11QHe1nbJg424qYFn8fCQ)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tasrif-nazmul) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazmul-hasan-14695823a//)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tasrifnaazmul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tasrif_nazmul/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCs11QHe1nbJg424qYFn8fCQ)  
+Let's create amazing things together! 🚀
